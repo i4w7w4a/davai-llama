@@ -11,6 +11,12 @@
 - [Роли и границы ответственности](docs/team/roles.md).
 - [Путь разработки](docs/roadmap.md).
 - [Принятое направление и границы исходного документа](docs/decisions/0001-foundation.md).
+- [Порядок сборки версий](docs/team/builder.md).
+- [Первый контракт пакета](docs/architecture/first-slice.md) и [проверка FFmpeg](docs/media/preflight.md).
+- [Слепые зоны и источники оракула](docs/research/0001-first-blind-spots.md).
+- [Свидетельства анализа](docs/analysis/evidence-and-acceptance.md) и [путь автора](docs/product/first-user-journey.md).
+
+Ближайшая техническая задача: [один файл → кадры и manifest](https://github.com/i4w7w4a/davai-llama/issues/2). [Очередь задач](https://github.com/i4w7w4a/davai-llama/issues) и [обсуждения оракула](https://github.com/i4w7w4a/davai-llama/discussions) ведутся отдельно от кода.
 
 Репозиторий публичный по прямому решению владельца. Рабочий язык — русский; идентификаторы кода и названия инструментов сохраняют исходное написание. Публичность репозитория не означает выбор open-source лицензии: лицензия продукта пока не назначена.
 
